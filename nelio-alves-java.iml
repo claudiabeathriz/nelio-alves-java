@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/boxing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vectors" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multidimensional-arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
