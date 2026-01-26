@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/interfaces" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/car-rental" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/paypal-payment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/comparator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
